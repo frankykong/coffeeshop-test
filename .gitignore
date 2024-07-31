@@ -23,6 +23,9 @@ google
 
 test_report*
 
+proto/*.lock
+
+
 # Go Workspaces (introduced in Go 1.18+)
 go.work
 
